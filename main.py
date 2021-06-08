@@ -31,5 +31,3 @@ print(video_output)
 
 print("Script (Transliterated)")
 print(script_output)
-
-same = True
