@@ -26,3 +26,10 @@ for x in video_words:
 
 script_output = list(filter(None, script_output))
 
+print("Video Transcription (Transliterated with timings)")
+print(video_output)
+
+print("Script (Transliterated)")
+print(script_output)
+
+same = True
