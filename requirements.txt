@@ -1,2 +1,4 @@
 numpy
+pycld2
+pyicu
 polyglot
